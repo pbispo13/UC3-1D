@@ -42,7 +42,7 @@ atividades do code pen
 
 ARRAY
 ```JS
-https://codepen.io/fqgdv-the-flexboxer/pen/eYwbMgd
+https://codepen.io/pedrinho-bespo/pen/PorjdEa
 ```
 ```JS
 https://codepen.io/pedrinho-bespo/pen/vYqdVKL
