@@ -45,4 +45,8 @@ ARRAY
 https://codepen.io/fqgdv-the-flexboxer/pen/eYwbMgd
 ```
 ```JS
+https://codepen.io/pedrinho-bespo/pen/vYqdVKL
+```
+```JS
+https://codepen.io/pedrinho-bespo/pen/OJegozw
 
